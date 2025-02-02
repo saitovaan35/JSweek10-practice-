@@ -1,3 +1,3 @@
 function learningJavaScript (){
-    console.log (`Я учу Java Script`);
+    console.log("Я учу JavaScript");
 }
